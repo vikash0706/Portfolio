@@ -56,3 +56,6 @@ Clone the repository:
 git clone https://github.com/vikashy/portfolio.git
 cd portfolio
 npm install
+
+🙌 Show Your Support
+If you like this project, please ⭐ star the repo. It helps a lot!
