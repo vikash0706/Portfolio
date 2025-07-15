@@ -33,7 +33,6 @@ This is my personal developer portfolio website built with React.js. It features
 - **CSS3**
 - **React-Bootstrap**
 - **VS Code**
-- **Vercel** (for hosting)
 
 ---
 
